@@ -2,7 +2,8 @@
 
 #include <iostream>
 
-int main() {
+int main()
+{
 	int numHealths = 5;
 	int Score = 1350;
 	std::cout << "************************\n";
